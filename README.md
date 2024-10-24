@@ -1,4 +1,4 @@
-# Outerport - Secure model registry for multi-model AI endpoints
+# Outerport - Instant AI models
 
 Under construction!
 
